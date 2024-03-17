@@ -1,8 +1,7 @@
 현대인의 충치, 치주염등 치아 관련 질병 발생이 시간이 지날수록 점차 증가하고 있다.</br>
 2020년 한 해 동안 우리나라 국민 중 44.1%인 2,285만 명이 건강보험 치과 외래 진료를 받았으며, 1인당 평균 3.4일 방문하였다.
 
-(데이터 링크 : http://www.hira.or.kr/bbsDummy.do;INTERSESSIONID=PkPJPr1oXaZW7ORJmLx2p61tA3Hz02RLQeDvSQ1-UGctmbkC-PIB!-366353795!-406590578?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=10368&pageIndex=1 ) </br>
-(이미지 링크 : http://www.dttoday.com/news/articleView.html?idxno=66789 )
+(관련 자료 링크 : http://www.hira.or.kr/bbsDummy.do;INTERSESSIONID=PkPJPr1oXaZW7ORJmLx2p61tA3Hz02RLQeDvSQ1-UGctmbkC-PIB!-366353795!-406590578?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=10368&pageIndex=1 ) </br>
 
 #### 충치는 발치 신경치료의 상황까지 가기전 초기에 발견하여 치료하는것이 중요하다
 
