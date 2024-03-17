@@ -1,8 +1,6 @@
 현대인의 충치, 치주염등 치아 관련 질병 발생이 시간이 지날수록 점차 증가하고 있다.</br>
 2020년 한 해 동안 우리나라 국민 중 44.1%인 2,285만 명이 건강보험 치과 외래 진료를 받았으며, 1인당 평균 3.4일 방문하였다.
 
-![CavityAndPlague.jpg](attachment:45d0ee3b-1ee1-4075-84b7-4270741b1671.jpg)
-
 (데이터 링크 : http://www.hira.or.kr/bbsDummy.do;INTERSESSIONID=PkPJPr1oXaZW7ORJmLx2p61tA3Hz02RLQeDvSQ1-UGctmbkC-PIB!-366353795!-406590578?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=10368&pageIndex=1 ) </br>
 (이미지 링크 : http://www.dttoday.com/news/articleView.html?idxno=66789 )
 
@@ -20,7 +18,7 @@
 
 ### 2-3 : Detect
 
-![cavity.jpg](attachment:8ef1afdd-6964-454b-94b2-acfc825dc468.jpg)
+![output_4_0](https://github.com/SongHunHan/AI_cavityDetection/assets/65228530/b8bd2ff3-9f92-42b0-8a0d-0e1203d1d77b)
 
 ####  - Cavity(충치), Amalgam(아말감), Gold(금)이 잘 detect됨을 확인했다. (정확도는 특정 이미지는 제거 특정 이미지는 추출)
 
@@ -31,7 +29,7 @@
 
 ### 2-3 : Detect
 
-![seg.jpg](attachment:6b0722eb-e7e6-4f0a-aec3-c49a81c1afe8.jpg)
+![test3](https://github.com/SongHunHan/AI_cavityDetection/assets/65228530/68ae0105-b3ad-4f3c-9bf8-b6e66db8b465)
 
 #### 치석의 경우 데이터셋의 부족으로 인해 완벽한 학습을 하지 못하였다. 추후 수정예정
 
